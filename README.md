@@ -1,5 +1,5 @@
 # GestureX - Transforming Motions into Commands
-
+ 
 GestureX is an advanced AI-driven project that enables users to control their PC using hand gestures. From navigating slides to controlling volume and executing custom commands, GestureX brings touchless interaction to your system using deep learning-based gesture recognition.
 
 ---
